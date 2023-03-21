@@ -11,3 +11,4 @@ package checkbox;
 public interface Checkbox {
     void paint();    
 }
+//criação da interface Checkbox com o método paint()

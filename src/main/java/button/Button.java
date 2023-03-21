@@ -11,3 +11,4 @@ package button;
 public interface Button {
     void paint();    
 }
+//criação da interface Button com o método paint()

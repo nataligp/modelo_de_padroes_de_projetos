@@ -23,3 +23,4 @@ public class MacOSFactory implements GUIFactory{
         return new MacOSCheckbox();
     }
 }
+//implemementação dos métodos create na classe MacOSFactory

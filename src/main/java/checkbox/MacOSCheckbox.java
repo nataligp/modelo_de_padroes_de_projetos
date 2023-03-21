@@ -14,3 +14,4 @@ public class MacOSCheckbox implements Checkbox{
         System.out.println("You have created a MasOSCheckbox.");
     }
 }
+//implementação do método paint() da interface checkbox na classe MacOSCheckbox

@@ -13,4 +13,6 @@ public class MacOSButton implements Button{
     public void paint(){
         System.out.println("You have created a MacOSButton.");
     }
+
+//implementação do método paint() da interface button na classe MacOSButton
 }

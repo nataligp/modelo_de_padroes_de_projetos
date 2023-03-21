@@ -22,3 +22,4 @@ public class WindowsFactory implements GUIFactory{
         return new WindowsCheckbox();
     }
 }
+//implemementação dos métodos create na classe WindowsFactory

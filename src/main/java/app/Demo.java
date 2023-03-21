@@ -25,9 +25,12 @@ private static Application configureApplication() {
     app = new Application(factory);
     
     return app;
+    //criação do método que aplica a interface GUIFactory para as classes factories
 }
 public static void main(String[] args){
     Application app = configureApplication();
     app.paint();
+    //instância e execução do objeto app que traz as 
+    //características das classes de implementação das interfaces
 }
 }

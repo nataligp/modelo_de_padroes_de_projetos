@@ -11,3 +11,4 @@ public interface GUIFactory {
     Button createButton();    
     Checkbox createCheckbox();    
 }
+//criação da interface GUIFactory com os métodos create

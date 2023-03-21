@@ -14,3 +14,4 @@ public class WindowsCheckbox  implements Checkbox{
         System.out.println("You have created a WindowsCheckbox.");
     }
 }
+//implementação do método paint() da interface checkbox na classe WindowsCheckbox
